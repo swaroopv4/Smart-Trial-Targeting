@@ -1,0 +1,8 @@
+### FIFA Data Download
+
+The FIFA player ratings data is required for Phase 2 of the pipeline.
+
+1. Go to: https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
+2. Click "Download" (free Kaggle account required)
+3. Unzip the downloaded file — it contains: players_15.csv, players_16.csv, ... players_22.csv
+4. Place all 8 files in the data/fifa/ folder
